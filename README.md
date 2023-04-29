@@ -21,7 +21,7 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 We have used Mumbai Polygon testnet rpc in this project click on below link:
 
-- https://mumbai.polygonscan.com/ - To add Mumbai Network in your Meta Mask Wallet
+- https://mumbai.polygonscan.com/ - To add Mumbai Network in your Meta Mask Wallet. Check footer section.
 - https://faucet.polygon.technology/ - Paste your Meta Mask wallet address to get matic for transaction
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
